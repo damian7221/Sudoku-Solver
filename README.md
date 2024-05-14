@@ -1,5 +1,6 @@
 # Sudoku Solver
-Github pages -> https://damian7221.github.io/Sudoku-Solver/
+
+Github pages -> [https://damian7221.github.io/Sudoku-Solver/](https://damian7221.github.io/Sudoku-Solver/)
 
 This is a web-based Sudoku solver application that allows users to input numbers into a Sudoku grid and solve the puzzle according to Sudoku rules. It features a dark mode toggle and is fully responsive, adapting to various screen sizes including mobile devices.
 
@@ -40,6 +41,19 @@ This is a web-based Sudoku solver application that allows users to input numbers
 - `index.html`: The main HTML file that contains the structure of the application.
 - `style.css`: The CSS file that contains styles for the application, including responsive design and dark mode.
 - `script.js`: The JavaScript file that contains the logic for the Sudoku solver, event listeners for buttons, and dark mode toggle.
+
+## Screenshots
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <div style="text-align: center;">
+    <img src="https://github.com/damian7221/Sudoku-Solver/assets/92375106/37145aec-9b91-4321-a627-54db0920677e" alt="Light Mode" width="300">
+    <p>Light Mode</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="path-to-dark-mode-screenshot" alt="Dark Mode" width="300">
+    <p>Dark Mode</p>
+  </div>
+</div>
 
 ## Author
 
