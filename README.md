@@ -25,17 +25,6 @@ This is a web-based Sudoku solver application that allows users to input numbers
 3. **Restart the Puzzle**: Click the "Restart" button to clear the grid and start a new puzzle.
 4. **Toggle Dark Mode**: Click the sun/moon icon in the top-right corner to switch between light and dark modes.
 
-## Installation
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/damian7221/sudoku-solver.git
-    cd sudoku-solver
-    ```
-
-2. Open `index.html` in your browser to run the application.
-
 ## Code Structure
 
 - `index.html`: The main HTML file that contains the structure of the application.
@@ -44,16 +33,20 @@ This is a web-based Sudoku solver application that allows users to input numbers
 
 ## Screenshots
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <div style="text-align: center;">
-    <img src="https://github.com/damian7221/Sudoku-Solver/assets/92375106/37145aec-9b91-4321-a627-54db0920677e" alt="Light Mode" width="300">
-    <p>Light Mode</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="path-to-dark-mode-screenshot" alt="Dark Mode" width="300">
-    <p>Dark Mode</p>
-  </div>
-</div>
+<table>
+  <tr>
+    <th style="text-align: center;">Light Mode</th>
+    <th style="text-align: center;">Dark Mode</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;">
+      <img src="https://github.com/damian7221/Sudoku-Solver/assets/92375106/37145aec-9b91-4321-a627-54db0920677e" alt="Light Mode" width="300">
+    </td>
+    <td style="text-align: center;">
+      <img src="https://github.com/damian7221/Sudoku-Solver/assets/92375106/763f88b1-6644-4f82-a244-60461bd608d8" alt="Dark Mode" width="300">
+    </td>
+  </tr>
+</table>
 
 ## Author
 
